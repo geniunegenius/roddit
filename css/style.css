@@ -1,0 +1,202 @@
+div.container{
+    width: 100%;
+	height:auto;
+	max-height:100%;
+}
+h2{
+	color:gray;
+	text-align:left;
+}
+div.thevery{
+	margin:-8px 0px 0px -8px;
+	height:17px;
+	width:101.2%;
+	background-color:#eef2f5;
+	border-bottom-style:solid;
+	border-bottom-width:1px;
+	
+}
+.top{
+	margin:-6px 0px 0px -8px;
+	height:47px;
+	width:101.2%;
+	background-color:#cee3f8;
+	border-top-style:solid;
+	border-top-width:1px;
+	border-bottom-style:solid;
+	border-bottom-width:1px;
+	border-bottom-color:#0000A0;
+}
+a.loginpagelink{
+	color:gray;
+	text-decoration:none;
+}
+a{
+	text-decoration:none;
+	color:black;
+}
+a.avatar{
+	text-decoration:none;
+	color:white;
+}
+a.selected1{
+	text-decoration:none;
+	color:orange;
+}
+a.copyright1:hover{
+	color:gray;
+	text-decoration:underline;
+}
+.redditlink{
+	border-top-style:solid;
+	border-top-width:4px;
+	border-top-color:#cee3f8;
+}
+.tabmenu{
+	list-style-type:none;
+	margin-left:140px;
+	margin-top:-21px;
+	padding:0px
+}
+li{
+	background-color:#ADD8E6;
+	display:inline-block;
+	padding:1px 5px 0px 5px;
+	margin-right:5px;
+}
+li.selected{
+	border:1px solid #0000A0;
+	border-bottom:1px solid white;
+	background-color:white;
+}
+li:hover{
+	opacity:0.8;
+}
+.mainpage{
+	margin-top:0px;
+	margin-left:-8px;
+	height:100%;
+	max-height:100%;
+	width:80%;
+	background-color:red;
+}
+.mainrightside{
+	margin-top:-47.35%;
+	margin-left:80%;
+	height:100%;
+	max-height:100%;
+	width:33.4%;
+	background-color:red;
+}
+.paginaprincipala{
+	margin-top:0px;
+	margin-left:-8px;
+	height:100%;
+	max-height:100%;
+	width:75%;
+	background-color:white;
+}
+.paginaprincipalaprofil{
+	margin-top:0px;
+	margin-left:-8px;
+	height:100%;
+	max-height:100%;
+	width:68%;
+	background-color:#eef2f5;
+}
+p.copyright{
+	text-align:center;
+	bottom:0;
+	color:gray;
+}
+font{
+	font-family: "Constantia";
+}
+.login{
+	width:399px;
+	height:20px;
+	background-color:#ADD8E6;
+	margin-top:-38px;
+	margin-left:950px;
+	text-align:left;
+	border-radius:5%;
+}
+p.loginpage{
+	text-align:left;
+	bottom:0;
+	color:gray;
+	padding-top:4px;
+	padding-left:4px;
+}
+h3.textsignup{
+	text-align:left;
+	bottom:0;
+	color:#0000A0;
+	padding-top:4px;
+	padding-left:4px;
+	margin-left:20px;
+	margin-top:5px;
+}
+.textsignup1{
+	text-align:left;
+	bottom:0;
+	color:#0000A0;
+	padding-top:4px;
+	padding-left:4px;
+	margin-left:0px;
+	margin-top:5px;
+}
+p.loginpage1{
+	text-align:left;
+	bottom:0;
+	color:gray;
+	padding-top:4px;
+	padding-left:4px;
+	margin-top:0px;
+}
+/* css pt profil */
+div.profilerightside{
+	margin-top:-47.35%;
+	margin-left:67.4%;
+	height:95%;
+	padding-top:40px;
+	padding-left:20px;
+	max-height:100%;
+	width:31.7%;
+	background-color:#eef2f5;
+}
+div.chenaruldindreapta{
+	height:100px;
+	width:350px;
+	background-color:white;
+	border-style:solid;
+	border-width:1px;
+	border-color:white;
+	border-radius:5px;
+}
+a.linkprofil{
+	text-decoration:none;
+}
+a.linkprofil:hover{
+	text-decoration:underline;
+}
+a.linkpostnou{
+	text-decoration:none;
+	color:white;
+	margin-left:15px;
+	padding:8px 122.5px 3px 122.5px;
+	border:1px solid #0000A0;
+	border-radius:5px;
+	text-align:center;
+	background-color:#0000A0;
+	cursor:pointer;
+}
+a.linkpostnou:hover{
+	opacity:0.6;
+}
+
+p.setaritext{
+	text-align:left;
+	padding-top:25px;
+	padding-left:50px;
+}
